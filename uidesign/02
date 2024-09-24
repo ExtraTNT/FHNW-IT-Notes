@@ -1,0 +1,131 @@
+The design of everyday things (book)
+
+How make things useful
+
+Physical design being the base
+
+Norman door
+
+You can purposely design something that is shit or just build sth without thought, that is good
+
+3 Fields
+
+Industrial design
+    focus on function and appearance of product, often Physical
+
+Interaction design
+    focus on how interact and use it
+
+Experience design
+    focus  on quality and enjoyment of it
+
+
+Human centered design
+    Design a design in a way, so that humand dont have to adapt
+
+
+
+Conceptual models
+    explanation of how something works
+    not necessarily accurate or complete
+    can differ from person to person
+
+Designer's conceptual model
+    idea how it works under the hood
+
+user's conceptual model
+    basic, very inaccurate, unga bunga mode... but we have to design for those
+    only knows black box
+system image
+    information aviable to the user
+    looks
+    instructions
+    infos from sales person
+    website
+    articles
+
+well designed does not need to read instructions, it shoudl be clea
+
+BREAK rules!
+
+good design allows tbe user to discover how a system should work. a good conceptual model is key
+(Discoverability in a system design)
+
+Concepts:
+    Affordances
+        relationship between obj and person
+        how it could be used
+            like touching it, throwing it away, licking it, what ever
+        depends on obj and person
+        perceivable to effective
+        needs to be perceivable -> hidden door, apple mouse
+    Signifiers
+        apple mouse logo, make it at least usable
+        visible, audible, tactical
+        perceivable -> help Affordances
+        shows, where / how to interact
+        lables, icons
+        can be unintentional -> foodprints on snow, fingerprints on tocuh screen
+        important for Discoverability
+        not important for purpos of being abele to use the objec
+        can make a product worse if done poorly
+        can be integrated with affordances -> door handle -> good design includes all the needed Signifiers into affordances -> bars on door, instead of pull-bar on push side
+        doesn't change what you can do with a systema
+        affordances wins over Signifiers -> throwing rubish in a trashcan marked with a lable dont throw trash in it
+    Constraints
+        limits
+        clues for the correct things to do
+        like grayed out buttons
+        useful for helping people determine proper course of action in a new situation
+        absence of feature != constrain
+        hardware limitations != constrain
+        Phisical
+            can't
+            you can't put an elephant into a recycling container
+            USB-A plug
+            prevent an action before it happebs, rather than when it's in progress
+            better make things not orientation sensitive -> usb-c
+            you can't delete a file as normal user
+                read a message, grayed out buttons, effective
+            force the desired behavior by disrupting
+                slow down users, bring conscious attention
+                    Interlock -> particular sequence (need to shift in neutral to start car or setup wizards)
+                    Lock Ins -> force user to not stop a task prematurely (atm keeps back the money, till you get your card out or confirm that you want to leave the page)
+                    Lock Outs -> prevent someone from killing / harming themselfs (gate keeping you out of the lion cage or warning to not enter a phishing website)
+        Cultural
+            should
+            you should not put a granate into a recycling container
+            changes over time
+            not universally
+            for example shower handle -> blue = cold, red = hot
+            60kmh sign
+            funny buttons on app / style
+        Simantic
+            meaning of the situation
+            should
+            common sense
+            drag a file to a printer, rather than trashcan icon
+        Logical
+            should
+            if there is one puzzle pice isn't there, the last one will go there
+    Mapping
+        relationship between two sets of elements -> controll -> button to light bulb
+        natural mappings -> takes advantage of spatial relationships -> good for Discoverability
+            touch screen
+            mouse
+            toch pads
+            joysticks
+        Stove controll being shit -> no good mapping
+    Feedback
+        Communication of the outcome of the action
+        Touch, hearing, taste, small, visual, auditory
+        Little feedback feels strange
+        No feedback makes tasks almost inpossible
+        must be immediate
+        must be informtive
+        must be unobtrustive
+
+        Physical keyboards are a lot better
+        Progressbars are nice
+
+
